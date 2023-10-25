@@ -52,11 +52,14 @@ body {
   min-height: 730px;
   height: 100%;
   width: 100%;
-  background-image: url("../../public/images/bg.png");
+  background:linear-gradient(0deg, rgba(5, 5, 5, 0.3), rgba(67, 67, 67, 0.3)), url("../../public/images/bg.svg");
+
+  // background-image: url("../../public/images/bg.svg");
   background-color: #242424;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  // background-blend-mode: multiply;
   .wrap {
   }
 }

@@ -229,7 +229,7 @@ function find_totalAmount(){
               <div className="icon" onClick={increment}>
                 <PlusIcon />{" "}
               </div>
-              <h2 className="heading bg-[#df302a] py-2 px-3 rounded-2xl max-md:rounded-lg">
+              <h2 className="heading bg-[#E1C884] py-2 px-3 rounded-2xl max-md:rounded-lg">
                 10 MAX
               </h2>
             </div>
