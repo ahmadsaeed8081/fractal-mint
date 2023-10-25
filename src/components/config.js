@@ -1,4 +1,4 @@
-export const cont_add="0x0F2f1761BE290EA02A466Af70CfE094945FC83c5";
+export const cont_add="0xde208E7E5f503dF19669f6EdE39B0935c4AB20dD";
 
 export const cont_abi=[
 	{
